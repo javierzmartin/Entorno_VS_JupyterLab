@@ -1,6 +1,6 @@
 # Entorno_VS_Jupiterlab
 
-Hola, estoy familiarizandome con Visual Studio Code y Jupiterlab
+Hola, estoy familiarizandome con Visual Studio Code y JupyterLab
 
 El propósito principal de este repositorio es llevar un registro del aprendizaje dentro del bootcamp de ciencia de datos de TripleTen.
 
@@ -11,7 +11,7 @@ es interesante saber como trata git lo que se añade o no a un repositorio.
     
 La estructura a fecha 14/02/2026 es la siguiente:
 
-ENTORNO_VS_JUPITERLAB
+ENTORNO_VS_JUPYTERLAB
 
 Subcarpetas:
 
