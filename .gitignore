@@ -2,6 +2,7 @@
 venv/
 .env/
 .venv/
+.virtual_documents/
 
 # --- Archivos de Python ---
 __pycache__/
