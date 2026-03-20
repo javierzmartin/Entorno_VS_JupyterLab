@@ -27,6 +27,7 @@ datasets/
 *.pickle
 *.pkl
 *.joblib
+*.zip
 
 # --- Modelos entrenados ---
 models/
