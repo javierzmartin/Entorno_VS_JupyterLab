@@ -1,4 +1,4 @@
-# Entorno_VS_Jupyterlab
+# Curso data science
 
 Hola, estoy familiarizandome con Visual Studio Code y JupyterLab
 
